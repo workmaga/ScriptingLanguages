@@ -1,0 +1,13 @@
+This is some documentation on my python script to output certain words from
+a file. 
+
+What it does: Outputs specified words from a given file.
+
+Output should be the entire line that contains a specified word. For example:
+If the search word was "entire" and that word was contained in a line with
+other strings ("I ate my entire meal."), then the output will be "I ate my 
+entire meal."
+
+
+How to run: Change to the directory of the script, make the file executable 
+(chmod +x scriptName.py), and type "python3 scriptName.py
