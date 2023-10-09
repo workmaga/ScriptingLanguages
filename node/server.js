@@ -16,7 +16,11 @@ http.createServer(function(req, res){
     else if(req.url.match("/sysinfo")) {
         myHostName=os.hostname();
         myIpAddress=ip.address();
-        serverUptime=os.uptime();
+        uptime=os.uptime();
+        uptimeDays = Math.floor(uptime / 86400);
+        uptimeHours = Math.floor(uptime / 3600) - (uptimeDays * 24);
+        uptimeMinutes = Math.floor(uptime / 60) - (uptimeHours * 60);
+        uptimeSeconds = Math.floor(uptime % 60);
         tMem=os.totalmem() / 1000000;
         fMem=os.freemem() / 1000000;
         numberCpu=os.cpus().length;
@@ -29,9 +33,9 @@ http.createServer(function(req, res){
           <body>
             <p>Hostname: ${myHostName}</p>
             <p>IP: ${myIpAddress}</p>
-            <p>Server Uptime: ${serverUptime}</p>
-            <p>Total Memory: ${tMem} MB</p>
-            <p>Free Memory: ${fMem} MB</p>
+            <p>Server Uptime: Days: ${uptimeDays}, Hours: ${uptimeHours}, Minutes: ${uptimeMinutes}, Seconds: ${uptimeSeconds}</p>
+            <p>Total Memory: ${tMem.toPrecision(7)} MB</p>
+            <p>Free Memory: ${fMem.toPrecision(5)} MB</p>
             <p>Number of CPUs: ${numberCpu}</p>            
           </body>
         </html>` 
