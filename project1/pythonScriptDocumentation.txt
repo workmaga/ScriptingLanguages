@@ -11,3 +11,9 @@ entire meal."
 
 How to run: Change to the directory of the script, make the file executable 
 (chmod +x scriptName.py), and type "python3 scriptName.py
+
+Sources:
+
+https://stackoverflow.com/questions/19184335/is-there-a-need-for-rangelena
+https://stackoverflow.com/questions/51567427/find-specific-words-in-text-file-and-print-the-line-using-python?rq=3
+https://stackoverflow.com/questions/31016734/selecting-specific-words-from-a-file-in-python
