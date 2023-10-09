@@ -1,1 +1,6 @@
-test project1
+Credentials: 
+Username gabriel 
+Password Pa$$w0rd 
+
+IP Address 10.0.0.1
+
