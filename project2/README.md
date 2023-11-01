@@ -26,3 +26,8 @@ Output:
   The text from each paragraph tag will be found in paragraph-text.txt
   
   
+Sources:
+https://stackoverflow.com/questions/19184335/is-there-a-need-for-rangelena
+https://stackoverflow.com/questions/51567427/find-specific-words-in-text-file-and-print-the-line-using-python?rq=3
+https://stackoverflow.com/questions/31016734/selecting-specific-words-from-a-file-in-python
+https://www.geeksforgeeks.org/how-to-extract-paragraph-from-a-website-and-save-it-as-a-text-file/
