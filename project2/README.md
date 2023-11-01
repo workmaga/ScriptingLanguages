@@ -14,7 +14,9 @@ What you will need:
 How to run:
 
   Download the project 2 files.
-  Determine the website and list of search words/terms that you are looking for. Change to the directory of the downloaded files and change the value of 'userWords' within the python script to include your words or terms.
+  Determine the website and list of search words/terms that you are looking for. 
+  Change the file path to match your environment and needs.
+  Change to the directory of the downloaded files and change the value of 'userWords' within the python script to include your words or terms.
   Make the script executable by running "chmod +x project2.py"
   Execute the script by running "python3 project2.py"
 
