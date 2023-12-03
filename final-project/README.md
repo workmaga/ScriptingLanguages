@@ -3,7 +3,9 @@ Communicating with a Python server using Node JS
 
 Description:
 
-    These scripts work in conjuction to allow for communication from a Node JS script to a Python server hosting an application. The application takes input from the Node JS script to calculate a users predicted GPA for a semester. The Node JS script has a pre-defined array of values, which represent predicted GPA quality points for each class. The Node JS script includes the necessary parameters to communicate with the Python server. As mentioned, the technologies used in these scripts are Python and Node JS, but a few extra modules did need to be installed.
+    These scripts work in conjuction to allow for communication from a Node JS script to a Python server hosting an application. The application takes input from the Node JS script to calculate a users
+    predicted GPA for a semester. The Node JS script has a pre-defined array of values, which represent predicted GPA quality points for each class. The Node JS script includes the necessary parameters
+    to communicate with the Python server. As mentioned, the technologies used in these scripts are Python and Node JS, but a few extra modules did need to be installed.
 
     For Python:
 
