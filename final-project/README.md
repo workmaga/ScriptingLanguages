@@ -18,9 +18,11 @@ Description:
         Request-Promise was installed using: npm install request-promise
 
 
-    These technologies were chosen due to their simplicity in creating a server and their diverse collection of libraries to include. Some challenges faced during this script's creation were
-    communication errors between the server. Another challenge I faced was to take user input in Node JS for the array. However, I ran into many issues with conversion. This is a feature I do hope to 
-    implement soon. 
+    These technologies were chosen due to their simplicity in creating a server and their diverse collection of libraries to include. 
+    Some challenges faced during this script's creation were communication errors between the server. 
+    Another challenge I faced was to take user input in Node JS for the array. 
+    However, I ran into many issues with conversion. 
+    This is a feature I do hope to implement soon. 
 
 
 Execution:
