@@ -1,4 +1,4 @@
-                                                                    Communicating with a Python server using Node JS
+Communicating with a Python server using Node JS
 
 
 Description:
