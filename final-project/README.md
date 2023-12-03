@@ -30,9 +30,9 @@ Execution:
 
 
 References: 
-    https://www.geeksforgeeks.org/node-js-npm-node-package-manager/
-    https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/
-    https://www.codemag.com/Article/1405000/Node.js-Succinctly
-    https://www.geeksforgeeks.org/how-to-communicate-json-data-between-python-and-node-js/
-    https://lucymarmitchell.medium.com/using-then-catch-finally-to-handle-errors-in-javascript-promises-6de92bce3afc
+https://www.geeksforgeeks.org/node-js-npm-node-package-manager/
+https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/
+https://www.codemag.com/Article/1405000/Node.js-Succinctly
+https://www.geeksforgeeks.org/how-to-communicate-json-data-between-python-and-node-js/
+https://lucymarmitchell.medium.com/using-then-catch-finally-to-handle-errors-in-javascript-promises-6de92bce3afc
    
