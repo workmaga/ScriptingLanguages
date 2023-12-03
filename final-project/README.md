@@ -23,7 +23,6 @@ Execution:
     To run the Node JS script: node userFile.js
 
 
-Expectation (with default GPA QP values):
 
 
 
