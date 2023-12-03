@@ -29,7 +29,7 @@ Execution:
 
 
 
-References: 
+References:    
 https://www.geeksforgeeks.org/node-js-npm-node-package-manager/    
 https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/    
 https://www.codemag.com/Article/1405000/Node.js-Succinctly    
